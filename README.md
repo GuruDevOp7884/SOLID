@@ -1,5 +1,5 @@
 # SOLID
-### Repositório para estudo do SOLID
+### Repositório para estudo do SOLID - Eduardo Pires
 S => SRP => Single Responsibility Principle
 
 O	=> OCP => Open / Closed Principle
